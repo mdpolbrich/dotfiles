@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olbrich15@gmail.com
+	name = Maria Olbrich
